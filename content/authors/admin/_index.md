@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Marco Miroballo
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professore di Storia dell'Arte
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Scuola Media Carlo Pepoli - Bologna
+  url: "https://www.istitutocomprensivo21bologna.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Professore 2.0, ma anche 3, abbondiamo. Interessato non solo alla storia dell'arte ma anche alle nuove tecnologie.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Arte
+- Comunicazione
+- Nuove Tecnologie
+- Fumetti
 
 education:
   courses:
@@ -61,8 +62,8 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
+email: "marco.miroballo@gmail.com"
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -70,6 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Salve! Sono Marco Miroballo, professore di Storia dell'Arte a Bologna. Creatore di [www.frattagliafumante.com](https://www.frattagliafumante.com). Nella mia vita ho fatto un po' di tutto, dal Web Designer al Banconista al supermercato, Fumettista, Grafico e Professore.\
+Di recente ho deciso di condividere il materiale e le conoscenze che, nel corso della mia carriera di insegnante, ho raccolto e sviluppato.

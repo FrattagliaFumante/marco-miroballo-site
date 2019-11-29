@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Esperienze"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Docente Arte e Immagine"
+  company = "Scuola Media Carlo Pepoli - Bologna"
+  company_url = "https://www.istitutocomprensivo21bologna.it/"
+  location = "Bologna"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Incarichi:
+
+  * Insegnamento Storia dell'Arte
+  * Corso di Disegno
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "CEO"
+  company = "Frattaglia Fumante"
+  company_url = "https://www.frattagliafumante.com"
+  location = "Bologna"
+  date_start = "2017-12-12"
+  date_end = ""
+  description = """Gestione e implementazione del Blog frattagliafumante.com"""
 
 +++
